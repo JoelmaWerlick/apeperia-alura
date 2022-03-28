@@ -14,4 +14,5 @@ Tela Mobile ![image](https://user-images.githubusercontent.com/100633937/1604177
 ![image](https://user-images.githubusercontent.com/100633937/160417728-6766846a-f253-4f8c-afc9-fed8b7681c3d.png)
 
 
+Veja o projeto final do curso em funcionamento:
 https://apeperia-alura-rho.vercel.app/
